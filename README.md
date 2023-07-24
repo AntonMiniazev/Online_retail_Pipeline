@@ -1,4 +1,7 @@
 # Project Overview:
+<p align="center">
+  <img src="https://github.com/AntonMiniazev/Online_retail_Pipeline/blob/main/Others/data-pipeline-architecture-purpose.jpg" />
+</p>
 
 **Description:** This project involves the development of an automated dashboard for an online retail company, designed to monitor key sales metrics by delivery zones. We will simplify the pipeline preparation process for the online retail store using the following tools:
 - Postgresql database (local for project simplification)
