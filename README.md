@@ -1,9 +1,9 @@
 # Project Overview:
 
-**Description:** This project involves the development of an automated dashboard for an online retail company, designed to monitor key sales metrics. We will simplify the pipeline preparation process for the online retail store using the following tools:
-	- Postgresql database
-	- Airflow
-	- Power BI
+**Description:** This project involves the development of an automated dashboard for an online retail company, designed to monitor key sales metrics by delivery zones. We will simplify the pipeline preparation process for the online retail store using the following tools:
+- Postgresql database
+- Airflow
+- Power BI
 
 **Main Task:** The primary goal is to create Power BI dashboards that provide a simplified business overview focusing on sales metrics.
 
@@ -14,5 +14,13 @@
 </p>
 
 # Preparing Data
+
+Orders and sale details (tables Orders and Products) are generated using script [Order_generator.ipynb](https://github.com/AntonMiniazev/Online_retail_Pipeline/blob/main/project_notebooks/Order_generator.ipynb).
+Other tables include delivery information, associated with the order completion expenses.
+All sourcing data tables are stored in csv files in folder [initial_data](https://github.com/AntonMiniazev/Online_retail_Pipeline/tree/main/project_notebooks)
+
+# Creating Database
+
+Databaze init
 
 
