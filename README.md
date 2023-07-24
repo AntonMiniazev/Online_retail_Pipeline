@@ -30,3 +30,5 @@ Process requirements:
 - Scheduled daily to maintain up-to-date the Proposed table.
 - Combine data from initial tables for orders from previous two days.
 - Insert combined data into the Proposed table with specifics from **Data Description**.
+
+Script for this process: [DAG](https://github.com/AntonMiniazev/Online_retail_Pipeline/blob/main/DAGs/dag_zone_economy.py)
