@@ -48,4 +48,5 @@ Proposed table is quered and reprocessed into a final report with following page
 - "Delivery Cost by zone": Delivery and Warehouse cost per order by zone dynamic.
 
 Final Power BI report: [Sales and GM dynamic.pbix](https://github.com/AntonMiniazev/Online_retail_Pipeline/blob/main/Reports/Sales%20and%20GM%20dynamic.pbix)
+
 Examples of pages: [Reports](https://github.com/AntonMiniazev/Online_retail_Pipeline/tree/main/Reports)
